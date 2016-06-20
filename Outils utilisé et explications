@@ -7,4 +7,4 @@ les différentes tables utilisées.
 J'ai aussi créer un code en javascript pour donner plus de dynamique à mon code.
 Lorsque le client choisi une taille ou des condiments, le prix total est alors directement affiché.
 
-Le client peu choisir la pizza qu'il souhaite et la commandé. Sa commande est alors enregistré dans la base de données de l'application web
+Le client peu choisir la taille de pizza qu'il souhaite et aussi les condiments. Sa commande est alors enregistré dans la base de données de l'application web
