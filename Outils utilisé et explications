@@ -1,0 +1,10 @@
+Outils utilisés
+
+J'ai utilisé le framework Laravel pour réaliser cette application web.
+Le framework permet d'avoir une meilleur organisation du code. De plus, il est plus facile pour quelqu'un de comprendre le code et de voir
+les différentes tables utilisées.
+
+J'ai aussi créer un code en javascript pour donner plus de dynamique à mon code.
+Lorsque le client choisi une taille ou des condiments, le prix total est alors directement affiché.
+
+Le client peu choisir la pizza qu'il souhaite et la commandé. Sa commande est alors enregistré dans la base de données de l'application web
